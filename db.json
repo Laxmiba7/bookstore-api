@@ -1,0 +1,21 @@
+{
+    "data":[
+        {
+            "id": 1,
+            "name": "Book1",
+            "categories":"IT",
+            "description": "Lorem Ipsum",
+            "Price" : "Rs.300",
+            "imgUrl" : "https://pos.booksmandala.com/images/5214"
+        },
+        {
+            
+            "id": 2,
+            "name": "Book2",
+            "categories":"IT",
+            "description": "Lorem Ipsum",
+            "Price" : "Rs.450" ,
+            "imgUrl" : "https://pos.booksmandala.com/images/5214"
+        }
+    ] 
+}
